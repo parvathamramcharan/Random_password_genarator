@@ -1,0 +1,25 @@
+
+
+#textbox{
+    height: 100px;
+    width: 400px;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: hsl(100, 0%, 98%);
+    box-shadow: 5px 5px 15px #000000;
+    margin:auto;
+    font-size:200%;
+    align-content: center;
+    text-align: center;
+    
+    
+    
+}
+#btn{
+    margin:auto; 
+    margin-left:42% ;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+
